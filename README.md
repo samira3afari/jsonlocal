@@ -1,4 +1,4 @@
-# Todo List with LocalStorage | لیست یادداشت‌ها
+# 📝 Todo List with LocalStorage | لیست یادداشت‌ها
 
 A simple, clean, and fully functional To-Do List application built with Vanilla JavaScript. It allows users to add and delete notes, and saves all data in the browser's `localStorage` so the data persists even after refreshing the page.
 
@@ -6,7 +6,13 @@ A simple, clean, and fully functional To-Do List application built with Vanilla 
 
 ---
 
-## Features | ویژگی‌ها
+## 📸 Preview | پیش‌نمایش
+
+![Todo List Preview](Screenshot 2026-10-24 022700.png)
+
+---
+
+## ✨ Features | ویژگی‌ها
 
 - **Add Tasks:** Quickly add new notes to the list.
 - **Delete Tasks:** Remove unwanted notes with a single click.
@@ -22,7 +28,7 @@ A simple, clean, and fully functional To-Do List application built with Vanilla 
 
 ---
 
-## Technologies Used | تکنولوژی‌های استفاده شده
+## 🛠️ Technologies Used | تکنولوژی‌های استفاده شده
 
 - **HTML5** (Semantic Structure)
 - **CSS3** (Flexbox, Transitions, Custom Properties)
@@ -34,13 +40,8 @@ A simple, clean, and fully functional To-Do List application built with Vanilla 
 
 ---
 
-##  How to Run | نحوه اجرا
+## 🚀 How to Run | نحوه اجرا
 
 1. Clone the repository:
-2. ---
-
-## 📸 Preview | پیش‌نمایش
-
-![Todo List Preview](Screenshot 2026-10-24 022700.png)
    ```bash
    git clone https://github.com/samira3afari/jsonlocal.git

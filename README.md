@@ -34,8 +34,13 @@ A simple, clean, and fully functional To-Do List application built with Vanilla 
 
 ---
 
-## 🚀 How to Run | نحوه اجرا
+##  How to Run | نحوه اجرا
 
 1. Clone the repository:
+2. ---
+
+## 📸 Preview | پیش‌نمایش
+
+![Todo List Preview](Screenshot 2026-10-24 022700.png)
    ```bash
    git clone https://github.com/samira3afari/jsonlocal.git
